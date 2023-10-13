@@ -12,20 +12,20 @@
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 <div display="inline">
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img width="50" height="50" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" />
+  &nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;
+  &nbsp;<img width="50" height="50" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" />&nbsp;
 </div>
 
 ##
 
 <h3 align="left">Você também me encontra em:</h3>
 <div display="inline">
-  <a href="https://www.linkedin.com/in/henrique-sbarai">
+  &nbsp;<a href="https://www.linkedin.com/in/henrique-sbarai">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://portfolio-henrique-sbarai.framer.ai/">
+  </a>&nbsp;
+  &nbsp;<a href="https://portfolio-henrique-sbarai.framer.ai/">
     <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
-  </a>
+  </a>&nbsp;
 </div>
 
 
