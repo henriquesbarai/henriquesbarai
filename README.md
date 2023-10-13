@@ -26,6 +26,9 @@
   &nbsp;<a href="https://portfolio-henrique-sbarai.framer.ai/">
     <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
   </a>&nbsp;
+  &nbsp;<a href="mailto:henrique.sbarai@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
 </div>
 
 
