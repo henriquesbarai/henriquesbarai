@@ -1,7 +1,7 @@
 <h1 align="center"><i>Hello there - General Kenobi...</i> Digo, olá! Aqui é o Henrique 👋</h1>
 <h3 align="center">Apaixonado por aprender de tudo um pouco, sigo buscando a pergunta fundamental sobre a vida, o Universo e tudo mais em diversos lugares:</h3>
 
-- 🎓 Mestrando em **matemática** pela Universidade de São Paulo;
+- 🎓 Mestre em **matemática** pela Universidade de São Paulo;
 - 📚 Estudante de **análise de dados**;
 - 👔 Já fui voluntário na **IME Jr** (empresa júnior do IME USP) e na organização de diversos eventos na **USP**;
 - 🌐 Falo **português** e **inglês** fluentemente, estou aprendendo **italiano** e já estudei **espanhol** também;
