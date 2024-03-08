@@ -2,7 +2,7 @@
 <h3 align="center">Apaixonado por aprender de tudo um pouco, sigo buscando a pergunta fundamental sobre a vida, o Universo e tudo mais em diversos lugares:</h3>
 
 - 🎓 Mestre em **matemática** pela Universidade de São Paulo;
-- 📚 Estudante de **análise de dados**;
+- 📚 Estudante de **análise de dados**, **programação** e **inteligência artificial**;
 - 👔 Já fui voluntário na **IME Jr** (empresa júnior do IME USP) e na organização de diversos eventos na **USP**;
 - 🌐 Falo **português** e **inglês** fluentemente, estou aprendendo **italiano** e já estudei **espanhol** também;
 - 🎸 **Músico** amador;
@@ -24,19 +24,16 @@
   &nbsp;<a href="https://www.linkedin.com/in/henrique-sbarai">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
-
-  <!-- Framer -->
-  &nbsp;<a href="https://portfolio-henrique-sbarai.framer.ai/">
-    <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
-  </a>&nbsp;
-
   <!-- Gmail -->
   &nbsp;<a href="mailto:henrique.sbarai@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
-
+  <!-- Framer -->
+  &nbsp;<a href="https://portfolio-henrique-sbarai.framer.ai/">
+    <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
+  </a>&nbsp;
   <!-- Medium -->
-  &nbsp;<a href="[mailto:henrique.sbarai@gmail.com](https://medium.com/@henriquesbarai)">
+  &nbsp;<a href="https://medium.com/@henriquesbarai">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>&nbsp;
 </div>
