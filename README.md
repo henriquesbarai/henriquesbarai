@@ -20,14 +20,24 @@
 
 <h3 align="left">Você também me encontra em:</h3>
 <div display="inline">
+  <!-- LinkedIn -->
   &nbsp;<a href="https://www.linkedin.com/in/henrique-sbarai">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
+
+  <!-- Framer -->
   &nbsp;<a href="https://portfolio-henrique-sbarai.framer.ai/">
     <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
   </a>&nbsp;
+
+  <!-- Gmail -->
   &nbsp;<a href="mailto:henrique.sbarai@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+
+  <!-- Medium -->
+  &nbsp;<a href="[mailto:henrique.sbarai@gmail.com](https://medium.com/@henriquesbarai)">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>&nbsp;
 </div>
 
