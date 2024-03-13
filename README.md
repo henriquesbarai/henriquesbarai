@@ -12,8 +12,11 @@
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 <div display="inline">
-  &nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;
-  &nbsp;<img width="50" height="50" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" />&nbsp;
+  &nbsp;<img title="Python" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;
+  &nbsp;<img title="PowerBI" width="50" height="50" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" />&nbsp;
+  &nbsp;<img title="VSCode" width="50" height="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" />&nbsp;
+  &nbsp;<img title="Git" width="50" height="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" />&nbsp;
+  &nbsp;<img title="GitHub" width="50" height="50" src="https://skillicons.dev/icons?i=github" />&nbsp;
 </div>
 
 ##
