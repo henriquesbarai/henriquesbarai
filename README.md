@@ -2,6 +2,7 @@
 <h3 align="center">Apaixonado por aprender de tudo um pouco, sigo buscando a pergunta fundamental sobre a vida, o Universo e tudo mais em diversos lugares:</h3>
 
 - 🎓 Mestre em **matemática** pela Universidade de São Paulo;
+- 🏰 Membro do projeto "Uma História Conectada da Idade Média" da FFLCH-USP;
 - 📚 Estudante de **análise de dados**, **programação** e **inteligência artificial**;
 - 👔 Já fui voluntário na **IME Jr** (empresa júnior do IME USP) e na organização de diversos eventos na **USP**;
 - 🌐 Falo **português** e **inglês** fluentemente, estou aprendendo **italiano** e já estudei **espanhol** também;
